@@ -1,4 +1,8 @@
 TNSAIML_Training
+
+
+
+
 Retail Sales Forecasting Using Machine Learning
 Project Description
 This project analyzes historical retail sales data and predicts future monthly sales using the Linear Regression algorithm.
